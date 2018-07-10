@@ -89,7 +89,7 @@ const list: Array<Project> = [
   {
     title: 'Salin',
     description:
-      'A mobile app that allow its user to answer survey in exchange of credits.',
+      'A mobile app that allows its user to answer survey in exchange of credits.',
     thumbnail: require('./project-img/salin.png'),
     tags: ['Design', 'Mobile App', 'React Native', 'Laravel'],
   },
